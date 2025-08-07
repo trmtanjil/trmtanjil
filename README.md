@@ -17,25 +17,9 @@
  
 
 ## 👨‍🍳 About Me
-I'm **Tanjilur Rahman**, a passionate and dedicated student from **Narsingdi Sadar, Bangladesh**, having completed my Higher Secondary Certificate (HSC) and currently studying in the **6th semester** of the Computer Science and Technology (CST) diploma program.
+I'm **Tanjilur Rahman**,MERN Stack Developer, a passionate and dedicated student from **Narsingdi Sadar, Bangladesh**, having completed my Higher Secondary Certificate (HSC) and currently studying in the **6th semester** of the Computer Science and Technology (CST) diploma program.
 
-I am actively developing my skills in **frontend web development** with a strong foundation in **HTML, CSS, and JavaScript**.
-
-My primary expertise is in **React**, with practical experience using:
-- React Router
-- Tailwind CSS
-- DaisyUI
-- React Hook Form
-- TanStack React Query
-
-I also have hands-on experience with **Firebase Authentication** for secure user management.
-
-On the backend, I am comfortable working with:
-- Node.js
-- Express.js
-- MongoDB
-
-which allows me to build efficient **full-stack applications**.
+I am actively developing my skills in **frontend web development** with a strong foundation in **HTML, CSS, and JavaScript ,**.
 
 ---
 
