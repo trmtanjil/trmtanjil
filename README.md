@@ -1,4 +1,5 @@
 ## Hi there 👋
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F78DFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Tanjilur+Rahman!;MERN+Stack+Web+Developer;Passionate+Frontend+Learner;React+%7C+Node+%7C+MongoDB+%7C+Next.js" alt="Typing SVG" />
 
 - 🌝 I’m currently working on: **A New Project**
 - ✨ I’m currently learning: **Next.js**
@@ -9,11 +10,11 @@
 - ☺️ Pronouns: **He/Him**
 - ⚡ Fun fact: **I once spent 4 hours fixing a bug… and it was just a missing semicolon. 😅**
 
----
+ 
 
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F78DFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Tanjilur+Rahman!;MERN+Stack+Web+Developer;Passionate+Frontend+Learner;React+%7C+Node+%7C+MongoDB+%7C+Next.js" alt="Typing SVG" />
 
----
+
+ 
 
 ## 👨‍🍳 About Me
 I'm **Tanjilur Rahman**, a passionate and dedicated student from **Narsingdi Sadar, Bangladesh**, having completed my Higher Secondary Certificate (HSC) and currently studying in the **6th semester** of the Computer Science and Technology (CST) diploma program.
