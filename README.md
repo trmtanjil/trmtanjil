@@ -71,10 +71,24 @@ I am actively developing my skills in **frontend web development** with a strong
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:trmtanjil02@gmail.com)
 ---
 
+## 📊 Advanced Dev Charts
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trmtanjil&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=trmtanjil&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=trmtanjil&theme=tokyonight&utcOffset=6" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=trmtanjil&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=trmtanjil&theme=tokyonight" />
+</div>
+
+---
+
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=trmtanjil&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=trmtanjil&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=trmtanjil&theme=tokyonight&hide_border=false&layout=compact)
+
+![Tanjil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=trmtanjil&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![Tanjil's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=trmtanjil&theme=tokyonight&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trmtanjil&theme=tokyonight&hide_border=false&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=trmtanjil&theme=radical&no-frame=false&no-bg=true&margin-w=4)
