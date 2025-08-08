@@ -24,11 +24,14 @@ I am actively developing my skills in **frontend web development** with a strong
 
 ---
 
-## 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100091248537794)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/trm-tanjil/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:trmtanjil02@gmail.com)
+🔥 **Current Activities**
+- 🌱 I’m currently learning Next.js
 
+- 🍔 I’m actively building a Food Delivery Web App named FoodEvers
+
+- 🧠 I’m improving my Backend Development Skills
+
+- 🚀 I’m focusing on real-world MERN & Next.js projects
 ---
 
 ## 💻 Tech Stack
@@ -46,6 +49,13 @@ I am actively developing my skills in **frontend web development** with a strong
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
+---
+
+
+## 🌐 Socials
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100091248537794)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/trm-tanjil/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:trmtanjil02@gmail.com)
 ---
 
 ## 📊 GitHub Stats
