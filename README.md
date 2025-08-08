@@ -17,7 +17,8 @@
  
 
 ## 👨‍🍳 About Me
-I'm **Tanjilur Rahman**,MERN Stack Developer, a passionate and dedicated student from **Narsingdi Sadar, Bangladesh**, having completed my Higher Secondary Certificate (HSC) and currently studying in the **6th semester** of the Computer Science and Technology (CST) diploma program.
+Hi, I’m Tanjilur Rahman — a passionate web developer with a strong focus on JavaScript and React.
+I love building clean, responsive, and user-friendly interfaces that provide a great user experience.
 
 I am actively developing my skills in **frontend web development** with a strong foundation in **HTML, CSS, and JavaScript ,**.
 
